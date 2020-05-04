@@ -2,4 +2,4 @@
 
 ![](src/images/extrait-1.png)
 
-![](images/img-extrait-2.png)
+![](src/images/extrait-2.png)
