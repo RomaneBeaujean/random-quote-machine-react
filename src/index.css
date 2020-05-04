@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Cookie&display=swap');
+
+:root {
+  --color: #AACAC3;
+}
+
+body {
+  background-color: var(--color);
+}
+
+#quote-box{
+  background-color: white;
+  color: var(--color);
+  border-radius: 10px;
+  margin: 15px auto;
+  width: 60vw;
+  text-align: center;
+  padding: 15px;
+}
+
+#button {
+  height: 40px;
+}
+
+#new-quote{
+  float: right;
+  width: 150px;
+  height: 40px;
+  background-color: var(--color);
+  color: white;
+  border: none;
+  font-family: 'Abel', sans-serif;
+  font-size: 20px;
+}
+
+#new-quote:hover{
+  cursor: pointer;
+  opacity:0.9;
+}
+
+#social-media{
+  float: left;
+}
+
+#text {
+  font-family: 'Cookie', cursive;
+  font-size: 50px;
+}
+
+#author{
+  font-family: 'Abel', sans-serif;
+  font-size: 30px;
+  text-align: right;
+  margin-top: -40px;
+  margin-bottom: 40px;
+}
+
+img{
+  width: 30px;
+  margin: 5px;
+}
